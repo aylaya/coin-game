@@ -1,0 +1,37 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url("https://cdn.dribbble.com/users/6064119/screenshots/15442444/media/be1d217ebb28c148f2834d295be44ebd.gif");
+  }
+  h1 {
+    text-align: center;
+    color: rgba(17, 71, 103, 0.981);
+    font-family: 'Arial', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: rgba(17, 71, 103, 0.981);
+    color: rgb(231, 239, 243);
+  }
+  img {
+    display: block;
+    margin: 20px auto;
+    height: 150px;
+  }
+  #score{
+    color: rgb(46, 29, 170);
+    font-family: 'Arial Narrow Bold', sans-serif, Helvetica, sans-serif 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  #result{
+   color: hwb(0 13% 4%);
+  }
+ 
